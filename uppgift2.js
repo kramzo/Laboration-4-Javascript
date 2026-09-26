@@ -10,3 +10,6 @@ console.log("Antal: " + productQuantity);
 
 const totalPrice = (productPrice * productQuantity);
 console.log("Totalt: " + totalPrice);
+
+const totalMoms = totalPrice + {totalPrice * 0.25};
+console.log ("Totalt inklusive moms: " + totalPrice + totalMoms)
