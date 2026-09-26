@@ -1,4 +1,4 @@
-/* Lösning förr uppgift 1 av Kei A.*/
+/* Lösning för uppgift 1 av Kei A.*/
 
 "use strict";
 
