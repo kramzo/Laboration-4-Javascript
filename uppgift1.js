@@ -8,10 +8,10 @@ const lastName = "Alanenpää";
 
 console.log (firstName + " " + lastName);
 
-let age = 34;
+const age = 34;
 
-console.log(age);
+console.log("Ålder: " + age);
 
 const isStudent = true;
 
-console.log(isStudent);
+console.log("Student: " + isStudent);
