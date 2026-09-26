@@ -15,9 +15,8 @@ Testa programmet med flera olika åldrar så att du ser att samtliga grenar fung
 
 "use strict";
 
-let Age = 18; {console.log(Age = "Vuxen")};
+const age = 18;
 
-if(Age < 18) {console.log ("Barn")};
+if(age < 18) {console.log ("Barn")};
 
-
-if(adult > 65) {console.log ("Pensionär")};
+if(age > 65) {console.log ("Pensionär")};
