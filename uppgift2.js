@@ -13,4 +13,4 @@ console.log("Totalt: " + totalPrice);
 
 const totalMoms = totalPrice * 0.25;
 const totalWithVAT = totalPrice + totalMoms;
-console.log ("Totalt inklusive moms: " + totalWithVAT);
+console.log("Totalt inklusive moms: " + totalWithVAT);
