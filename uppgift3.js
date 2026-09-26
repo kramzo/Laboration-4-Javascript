@@ -13,11 +13,11 @@ under 18 år: "Barn"
 
 Testa programmet med flera olika åldrar så att du ser att samtliga grenar fungerar.*/
 
-"use strict;"
+"use strict";
 
-let adultAge = 18;
+let Age = 18; {console.log(Age = "Vuxen")};
 
-if(adultAge < 18) {console.log ("Barn")}
-console.log(adultAge = "Vuxen")
+if(Age < 18) {console.log ("Barn")};
 
-if(adult > 65) {console.log ("Pensionär")}
+
+if(adult > 65) {console.log ("Pensionär")};
