@@ -1,12 +1,12 @@
 /*Lösningen för uppgift 2: Operatorer och beräkningar*/
 
-"use.strict";
+"use strict";
 
 const productPrice = 250;
-{console.log("Produktpris: " + productPrice);}
+console.log("Produktpris: " + productPrice);
 
 const productQuantity = 2;
-{console.log("Antal: " + productQuantity);}
+console.log("Antal: " + productQuantity);
 
 const totalPrice = (productPrice * productQuantity);
-{console.log("Totalt: " + totalPrice);}
+console.log("Totalt: " + totalPrice);
