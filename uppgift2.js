@@ -3,10 +3,10 @@
 "use.strict";
 
 const productPrice = 250;
-{console.log("Produktpris: " + 250);}
+{console.log("Produktpris: " + productPrice);}
 
 let productQuantity = 2;
 {console.log("Antal: " + productQuantity);}
 
 const totalPrice = (productPrice * productQuantity);
-{console.log("Totalt: " + productPrice * productQuantity)}
+{console.log("Totalt: " + totalPrice);}
