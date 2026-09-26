@@ -18,5 +18,6 @@ Testa programmet med flera olika åldrar så att du ser att samtliga grenar fung
 let adultAge = 18;
 
 if(adultAge < 18) {console.log ("Barn")}
+console.log(adultAge = "Vuxen")
 
-
+if(adult > 65) {console.log ("Pensionär")}

@@ -8,7 +8,7 @@ console.log("Produktpris: " + productPrice);
 const productQuantity = 2;
 console.log("Antal: " + productQuantity);
 
-const totalPrice = (productPrice * productQuantity);
+const totalPrice = productPrice * productQuantity;
 console.log("Totalt: " + totalPrice);
 
 const totalMoms = totalPrice * 0.25;
