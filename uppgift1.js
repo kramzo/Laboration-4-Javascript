@@ -3,12 +3,13 @@
 "use strict";
 
 const firstName = "Kei";
-
 console.log(firstName);
 
 const lastName = "Alanenpää";
 
 console.log(lastName);
+
+console.log (firstName + lastName);
 
 let age = 34;
 
