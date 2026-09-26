@@ -6,7 +6,12 @@ const firstName = "Kei";
 
 console.log(firstName);
 
-
 const lastName = "Alanenpää"
-const age = 34;
+
+console.log(lastName);
+
+let age = 34;
+
+console.log(age);
+
 const studentStatus = "true"
