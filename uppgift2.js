@@ -2,9 +2,8 @@
 
 "use.strict";
 
-const productPrice = 250;
-
-console.log(productPrice);
+productPrice = 250;
+{console.log("Produktpris: " + 250);}
 
 const productQuantity = 2;
 
