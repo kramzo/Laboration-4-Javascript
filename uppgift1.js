@@ -14,4 +14,6 @@ let age = 34;
 
 console.log(age);
 
-const studentStatus = "true"
+const isStudent = true
+
+console.log(isStudent);
