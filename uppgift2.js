@@ -2,7 +2,7 @@
 
 "use strict";
 
-const productPrice = 100;
+const productPrice = 250;
 console.log("Produktpris: " + productPrice);
 
 const productQuantity = 2;
