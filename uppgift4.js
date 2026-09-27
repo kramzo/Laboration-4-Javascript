@@ -2,6 +2,9 @@
 
 "use strict";
 
-for (let i = 1; i < 21; i++) {
+for (let i = 1; i < 21; i++) { /*Loop 1-20*/
     console.log(i)
 }
+
+if (i = 2 * 10) {console.log(i);
+} 
