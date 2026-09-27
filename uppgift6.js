@@ -3,7 +3,7 @@
 "use strict";
 
 function calculateArea(a, b) {
-    return a * b
+    return a * b;
 }
 
 const result = multiply(a, b);
