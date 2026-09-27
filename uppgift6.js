@@ -6,4 +6,6 @@ function calculateArea(a, b) {
     return a * b;
 }
 
-const result = multiply(a, b);
+const result = multiply(a * b);
+
+add(10 * 5);
