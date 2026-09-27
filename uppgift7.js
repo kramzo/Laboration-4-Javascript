@@ -2,7 +2,7 @@
 
 "use strict";
 
-let numbers = [10, 20, 30, 40, 50, 60];
+let numbers = [10, 20, 30, 40, 50, 60]; //Platser: 10, 20, 30, 40, 50, 60 -> 0, 1, 2, 3, 4, 5 index
 
 
 function arrayAddition(numbers) { let sumNumbers = 0;
