@@ -4,6 +4,8 @@
 
 let foods = ["Spaghetti", "Pommes", "Nuggets", "Köttbullar", "Potatismos"]
 
+console.log(foods);
+
 console.log(foods[0]);
 
 console.log(foods[4]);
