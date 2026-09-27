@@ -19,6 +19,8 @@ const defaultAge = 18
 {console.log ("Ålder :" + defaultAge)};
 
 if (defaultAge < 18) {console.log("Barn");
-} { else if (defaultAge = 18) console.log ("Vuxen")};
+}
+
+else if (defaultAge >= 18) console.log ("Vuxen")};
 
 else (defaultAge <= 65) {console.log("Pensionär")};
