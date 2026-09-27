@@ -1,4 +1,4 @@
-/*Lösning för uppgift 3: Villkor */
+/*Lösning för uppgift 3: Villkor by Kei A. */
 
 "use strict";
 
