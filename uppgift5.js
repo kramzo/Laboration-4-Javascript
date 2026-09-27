@@ -2,3 +2,4 @@
 
 "use strict";
 
+let foods = ["Spaghetti", "Pommes", "Nuggets", "Köttbullar", "Potatismos"]
