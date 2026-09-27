@@ -9,4 +9,6 @@ function arrayAddition(numbers) {
     return a + b + c + d + e + f;
 }
 
+arrayAddition(numbers);
+
 console.log ("Summan är " + numbers);
