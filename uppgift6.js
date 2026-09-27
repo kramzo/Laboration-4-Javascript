@@ -1,4 +1,4 @@
-/*Lösning på Uppgift 6: Funktioner */
+/*Lösning på Uppgift 6: Funktioner av Kei A.*/
 
 "use strict";
 
