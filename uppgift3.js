@@ -22,4 +22,4 @@ if defaultAge = 18; {console.log ("Vuxen")};
 
 if(defaultAge < 18) {console.log("Barn")};
 
-if (defaultAge >= 65) {console.log("Pensionär")};
+if (defaultAge <= 65) {console.log("Pensionär")};
