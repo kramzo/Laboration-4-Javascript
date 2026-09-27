@@ -9,7 +9,7 @@ function arrayAddition(numbers) { let sumNumbers = 0;
  for (let i = 0; i < numbers.length; i++) {
         console.log(numbers[i]);
     }
-    return sumNumbers;
+    return sumNumbers = sumNumbers + numbers[i];
 }
 
 console.log ("Summan är " + arrayAddition(numbers));
