@@ -8,4 +8,6 @@ function calculateArea(a, b) {
 
 console.log("Arean är " + calculateArea(10, 5));
 
-calculateArea(10, 5);
+console.log("Arean är " + calculateArea(8, 4));
+
+console.log("Arean är " + calculateArea(2, 6));
