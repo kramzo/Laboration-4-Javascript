@@ -2,6 +2,6 @@
 
 "use strict";
 
-for (let i = 1; i < 20; i++) {
-    console.log("Hej")
+for (let i = 1; i < 21; i++) {
+    console.log(i)
 }
