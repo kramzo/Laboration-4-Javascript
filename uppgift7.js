@@ -3,3 +3,8 @@
 "use strict";
 
 let numbers = [a, b, c, d, e, f];
+
+
+function numbers([a, b, c, d, e, f]) {
+    return a + b + c + d + e + f;
+}
