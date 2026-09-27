@@ -15,11 +15,10 @@ Testa programmet med flera olika åldrar så att du ser att samtliga grenar fung
 
 "use strict";
 
-const defaultAge = 18;
+const defaultAge = 18
 {console.log ("Ålder :" + defaultAge)};
 
-if (defaultAge < 18) {console.log("Barn")};
-
-else if (defaultAge = 18) {console.log ("Vuxen")};
+if (defaultAge < 18) {console.log("Barn");
+} { else if (defaultAge = 18) console.log ("Vuxen")};
 
 else (defaultAge <= 65) {console.log("Pensionär")};
