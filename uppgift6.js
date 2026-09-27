@@ -8,4 +8,4 @@ function calculateArea(a, b) {
 
 const result = multiply(a * b);
 
-add(10 * 5);
+(10, 5);
