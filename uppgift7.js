@@ -2,10 +2,11 @@
 
 "use strict";
 
-function arrayAddition([a, b, c, d, e, f]) {
+let numbers = [10, 20, 30, 40, 50, 60];
+
+
+function arrayAddition(numbers) {
     return a + b + c + d + e + f;
 }
 
-let numbers = [a, b, c, d, e, f];
-
-console.log ("Summan är " + arrayAddition([10, 20, 30, 40, 50, 60]));
+console.log ("Summan är " + arrayAddition);
