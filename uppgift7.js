@@ -2,3 +2,4 @@
 
 "use strict";
 
+let numbers = [a, b, c, d, e, f];
