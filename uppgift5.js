@@ -11,3 +11,7 @@ console.log(foods[0]);
 console.log(foods[4]);
 
 foods.push("Sushi");
+
+foods.shift();
+
+console.log(foods);
