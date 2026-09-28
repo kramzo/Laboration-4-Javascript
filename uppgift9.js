@@ -20,13 +20,13 @@ const people = [
     }
 ];
 
-for (let i = 0; i < people.length; i++) {
-        people[i] = person
-}
-
 function listPeople(person) {
 
     console.log(person.name + " bor i " + person.city + " . ");
     
+}
+
+for (let i = 0; i < people.length; i++) {
+       listPeople(people[i]);
 }
 
