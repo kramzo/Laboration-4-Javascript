@@ -6,14 +6,16 @@ Varje värde läggs till den tidigare summan (0 + 10 = 10,
 
 "use strict";
 
-let numbers = [10, 20, 30, 40, 50, 60]; //Platser: 10, 20, 30, 40, 50, 60 -> 0, 1, 2, 3, 4, 5 index
+let numbers = [10, 20, 30, 40, 50, 60]; 
 
+function arrayAddition(numbers) //Funktionen tar emot hela arrayen som parameter. 
 
-function arrayAddition(numbers) { let sumNumbers = 0;
+{ let sumNumbers = 0; // Här sparas summan medan loopen arbetar.
+
  for (let i = 0; i < numbers.length; i++) {
-    sumNumbers = sumNumbers + numbers[i]
+    sumNumbers = sumNumbers + numbers[i]         // Lägger det aktuella värdet till den tidigare summan.
         console.log(numbers[i]);
     }
-        return sumNumbers;
+        return sumNumbers;     // Skickar tillbaka den färdiga summan.
 }
 console.log ("Summan är " + arrayAddition(numbers));

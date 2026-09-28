@@ -12,9 +12,9 @@ console.log("Produktpris: " + productPrice);
 const productQuantity = 2;
 console.log("Antal: " + productQuantity);
 
-const totalPrice = productPrice * productQuantity;
+const totalPrice = productPrice * productQuantity; // Multiplicerar priset med antalet produkter.
 console.log("Totalt: " + totalPrice);
 
-const totalMoms = totalPrice * 0.25;
-const totalWithVAT = totalPrice + totalMoms;
+const totalMoms = totalPrice * 0.25; // Räknar ut 25 % moms.
+const totalWithVAT = totalPrice + totalMoms; // Lägger ihop priset och momsen.
 console.log("Totalt inklusive moms: " + totalWithVAT);

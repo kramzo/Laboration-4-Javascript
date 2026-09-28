@@ -6,6 +6,6 @@ för att hitta och skriva ut endast de jämna talen.*/
 
 "use strict";
 
-for (let i = 1; i < 21; i++) { /*Loop 1-20*/
-if (i % 2 === 0) {console.log(i);} /*Only even numbers*/
-} 
+for (let i = 1; i < 21; i++) { // Loopen går igenom talen 1 till 20.
+if (i % 2 === 0) {console.log(i);} 
+}  // % ger resten efter division. Resten 0 betyder jämnt tal.

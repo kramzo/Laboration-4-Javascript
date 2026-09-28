@@ -6,6 +6,7 @@ ett villkor för att skriva ut personens namn, stad och om personen är myndig.*
 
 "use strict";
 
+// En array som innehåller flera personobjekt.
 const people = [
   {
     name: "Kei",
@@ -24,7 +25,10 @@ const people = [
   },
 ];
 
+// Funktionen tar emot en person i taget.
 function listPeople(person) {
+
+  // Kontrollerar personens ålder.
   if (person.age >= 18) {
     console.log(person.name + " bor i " + person.city + " och är myndig. ");
   } else {
@@ -34,6 +38,10 @@ function listPeople(person) {
   }
 }
 
+// Loopen går igenom alla personer i arrayen.
 for (let i = 0; i < people.length; i++) {
+
+   // people[i] är personen på det aktuella indexet.
+    // Personen skickas sedan till funktionen.
   listPeople(people[i]);
 }

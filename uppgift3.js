@@ -8,7 +8,7 @@ för att avgöra åldersgrupp. Personer under 18 år anges som barn,
 
 const age = 18;
 
-if (age < 18) {
+if (age < 18) { // Kontrollerar åldern och väljer rätt åldersgrupp.
     console.log("Barn");
 } else if (age <= 64) {
     console.log("Vuxen");

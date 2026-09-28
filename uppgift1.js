@@ -6,16 +6,16 @@ Informationen skrivs sedan ut i terminalen.*/
 
 "use strict";
 
-const firstName = "Kei";
+const firstName = "Kei"; // const används eftersom värdet inte ska ändras.
 
 const lastName = "Alanenpää";
 
 console.log (firstName + " " + lastName);
 
-const age = 34;
+const age = 34; // En number-variabel för åldern.
 
 console.log("Ålder: " + age);
 
-const isStudent = true;
+const isStudent = true; // Boolean kan ha värdet true eller false.
 
 console.log("Student: " + isStudent);

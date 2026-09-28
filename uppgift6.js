@@ -8,9 +8,10 @@ för att beräkna och skriva ut olika resultat i terminalen.*/
 
 function calculateArea(a, b) {
     return a * b;
-}
+} // Funktionen tar emot bredd och höjd som parametrar.
+    // return skickar tillbaka den beräknade arean.
 
-console.log("Arean är " + calculateArea(10, 5));
+console.log("Arean är " + calculateArea(10, 5)); // Anropar funktionen med två argument.
 
 console.log("Arean är " + calculateArea(8, 4));
 
