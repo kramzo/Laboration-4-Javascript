@@ -4,18 +4,18 @@
 
 const people = [
     {
-        namn: Kei,
+        namn: "Kei",
         ålder: 34,
-        stad: Floby, 
+        stad: "Floby", 
     },
     {
-        namn: Valdemar,
+        namn: "Valdemar",
         ålder: 36,
-        stad: Floby,
+        stad: "Floby",
     },
     {
-        namn: Madelene,
+        namn: "Madelene",
         ålder: 34,
-        stad: Uppsala,
+        stad: "Uppsala",
     }
 ]
