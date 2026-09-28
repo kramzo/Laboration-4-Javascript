@@ -22,10 +22,10 @@ const people = [
 
 function listPeople(person) {
 
-if (person.age <= 34) {
-  console.log(person.name + " bor i " + person.city + " och är yngre än Valdemar. ");
-} else {person.age >= 36
-    console.log(person.name + " bor i " + person.city + " är äldre än Kei och Madelene. ")
+if (person.age >= 18) {
+  console.log(person.name + " bor i " + person.city + " och är myndig. ");
+} else {person.age <= 17
+    console.log(person.name + " bor i " + person.city + " inte myndig. ")
 }
 
 }
