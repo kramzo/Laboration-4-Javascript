@@ -7,5 +7,15 @@ const people = [
         namn: Kei,
         ålder: 34,
         stad: Floby, 
+    },
+    {
+        namn: Valdemar,
+        ålder: 36,
+        stad: Floby,
+    },
+    {
+        namn: Madelene,
+        ålder: 34,
+        stad: Uppsala,
     }
 ]
