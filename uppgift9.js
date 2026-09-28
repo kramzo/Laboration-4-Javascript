@@ -20,5 +20,5 @@ const people = [
     }
 ];
 
-function 
-for (let i = 0, i < people.length, i++);
+function listPeople(people) {}
+for (let i = 0; i < people.length, i++);
