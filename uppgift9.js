@@ -4,23 +4,27 @@
 
 const people = [
     {
-        namn: "Kei",
-        ålder: 34,
-        stad: "Floby", 
+        name: "Kei",
+        age: 34,
+        city: "Floby", 
     },
     {
-        namn: "Valdemar",
-        ålder: 36,
-        stad: "Floby",
+        name: "Valdemar",
+        age: 36,
+        city: "Floby",
     },
     {
-        namn: "Madelene",
-        ålder: 34,
-        stad: "Uppsala",
+        name: "Madelene",
+        age: 34,
+        city: "Uppsala",
     }
 ];
 
-function listPeople(people) {}
 for (let i = 0; i < people.length; i++) {
     people[i]
+}
+
+function listPeople(people) {
+    console.log();
+    
 }
