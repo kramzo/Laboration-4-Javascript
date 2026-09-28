@@ -29,3 +29,4 @@ console.log("Namn: " + book.name);
 console.log("Författare: " + book.author);
 console.log("Utgivningsår: " + book.releaseYear);
 
+bookInformation(book);
