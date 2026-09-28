@@ -24,7 +24,7 @@ function listPeople(person) {
 
 if (person.age <= 34) {
   console.log(person.name + " bor i " + person.city + " och är yngre än Valdemar. ");
-} else {person.age >= 35
+} else {person.age >= 36
     console.log(person.name + " bor i " + person.city + " är äldre än Kei och Madelene. ")
 }
 
