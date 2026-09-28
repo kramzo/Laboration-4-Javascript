@@ -21,9 +21,16 @@ const people = [
 ];
 
 function listPeople(person) {
-  console.log(person.name + " bor i " + person.city + ". ");
+
+if (person.age <= 34) {
+  console.log(person.name + " bor i " + person.city + " och är yngre än Valdemar. ");
+} else {person.age >= 35
+    console.log(person.name + " bor i " + person.city + " är äldre än Kei och Madelene. ")
+}
+
 }
 
 for (let i = 0; i < people.length; i++) {
   listPeople(people[i]);
 }
+
