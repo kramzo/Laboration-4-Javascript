@@ -1,4 +1,8 @@
-/*Lösning på Uppgift 7: Arrayer och funktioner av Kei A.*/
+/*Lösning på Uppgift 7: Arrayer och funktioner av Kei A.
+
+Programmet loopar igenom alla tal i en array, med start på index 0.
+Varje värde läggs till den tidigare summan (0 + 10 = 10,
+10 + 20 = 30 osv.). När loopen är klar returneras totalsumman 210.*/
 
 "use strict";
 

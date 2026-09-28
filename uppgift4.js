@@ -1,4 +1,8 @@
-/*Lösning för uppgift 4: Loopar och villkor by Kei A.*/
+/*Lösning för uppgift 4: Loopar och villkor by Kei A.
+
+Programmet använder först en for-loop för att gå igenom talen 1–20.
+Sedan används modulusoperatorn (%) tillsammans med ett villkor
+för att hitta och skriva ut endast de jämna talen.*/
 
 "use strict";
 

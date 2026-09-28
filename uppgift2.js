@@ -1,4 +1,8 @@
-/*Lösningen för uppgift 2: Operatorer och beräkningar by Kei A.*/
+/*Lösningen för uppgift 2: Operatorer och beräkningar by Kei A.
+
+Programmet lagrar en produkts pris och antal i variabler.
+Det beräknar det totala priset och lägger sedan till 25 % moms.
+Resultatet skrivs ut i terminalen.*/
 
 "use strict";
 

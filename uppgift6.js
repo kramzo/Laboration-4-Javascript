@@ -1,4 +1,8 @@
-/*Lösning på Uppgift 6: Funktioner av Kei A.*/
+/*Lösning på Uppgift 6: Funktioner av Kei A.
+
+Programmet använder en funktion för att beräkna arean utifrån
+en angiven bredd och höjd. Funktionen anropas med olika värden
+för att beräkna och skriva ut olika resultat i terminalen.*/
 
 "use strict";
 

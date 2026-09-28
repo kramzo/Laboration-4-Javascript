@@ -1,4 +1,8 @@
-/* Lösning för uppgift 1 av Kei A.*/
+/* Lösning för uppgift 1 av Kei A.
+
+Programmet lagrar förnamn, efternamn, ålder och studentstatus i variabler.
+Studentstatus anges med ett booleskt värde (true/false).
+Informationen skrivs sedan ut i terminalen.*/
 
 "use strict";
 
