@@ -25,4 +25,4 @@ const book = {
 
 function bookInformation(book) {book.name, book.author, rele};
 
-console.log(bookInformation);
+console.log(book);
