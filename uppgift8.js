@@ -17,8 +17,12 @@ Utgivningsår: 1937*/
 
 "use strict";
 
-let book = {
+const book = {
     name: "Circe",
     author: "Madeline Miller",
     releaseYear: 2018
 };
+
+function book(name, author, releaseYear);
+
+change
