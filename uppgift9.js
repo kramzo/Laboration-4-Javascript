@@ -25,6 +25,6 @@ for (let i = 0; i < people.length; i++) {
 }
 
 function listPeople(person) {
-    console.log(people.name + "bor i" + people.age + "och är" +);
+    console.log(person.name + " bor i " + person.city + " och är " + person.age + " år gammal! " );
     
 }
