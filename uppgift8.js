@@ -18,16 +18,15 @@ Utgivningsår: 1937*/
 "use strict";
 
 const book = {
-    name: "Circe",
-    author: "Madeline Miller",
-    releaseYear: 2018
+  title: "Circe",
+  author: "Madeline Miller",
+  releaseYear: 2018,
 };
 
 function bookInformation(book) {
-
-console.log("Namn: " + book.name);
-console.log("Författare: " + book.author);
-console.log("Utgivningsår: " + book.releaseYear);
+  console.log("Titel: " + book.title);
+  console.log("Författare: " + book.author);
+  console.log("Utgivningsår: " + book.releaseYear);
 }
 
 bookInformation(book);
