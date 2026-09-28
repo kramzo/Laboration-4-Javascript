@@ -21,10 +21,10 @@ const people = [
 ];
 
 for (let i = 0; i < people.length; i++) {
-    people[i]
+        people[i]
 }
 
-function listPeople(people) {
-    console.log();
+function listPeople(person) {
+    console.log(people.name + "bor i" + people.age + "och är" +);
     
 }
