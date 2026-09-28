@@ -21,6 +21,6 @@ const people = [
 ];
 
 function listPeople(people) {}
-for (let i = 0; i < people.length, i++) {
+for (let i = 0; i < people.length; i++) {
     people[i]
 }
