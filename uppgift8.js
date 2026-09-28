@@ -23,6 +23,6 @@ const book = {
     releaseYear: 2018
 }
 
-function bookInformation(book);
+function bookInformation(book) {book.name, book.author, rele};
 
 console.log(bookInformation);
