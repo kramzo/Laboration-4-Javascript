@@ -21,16 +21,15 @@ const people = [
 ];
 
 function listPeople(person) {
-
-if (person.age >= 18) {
-  console.log(person.name + " bor i " + person.city + " och är myndig. ");
-} else {person.age <= 17
-    console.log(person.name + " bor i " + person.city + " inte myndig. ")
-}
-
+  if (person.age >= 18) {
+    console.log(person.name + " bor i " + person.city + " och är myndig. ");
+  } else {
+    console.log(
+      person.name + " bor i " + person.city + " och är inte myndig. ",
+    );
+  }
 }
 
 for (let i = 0; i < people.length; i++) {
   listPeople(people[i]);
 }
-
