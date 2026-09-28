@@ -1,4 +1,8 @@
-/*Lösning för Uppgift 9: Sammanhängande program av Kei A.*/
+/*Lösning för Uppgift 9: Sammanhängande program av Kei A.
+
+Programmet skapar en array med flera personobjekt och använder en loop
+för att gå igenom dem. Varje person skickas till en funktion som använder
+ett villkor för att skriva ut personens namn, stad och om personen är myndig.*/
 
 "use strict";
 
