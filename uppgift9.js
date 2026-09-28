@@ -18,4 +18,7 @@ const people = [
         ålder: 34,
         stad: "Uppsala",
     }
-]
+];
+
+function 
+for (let i = 0, i < people.length, i++);
